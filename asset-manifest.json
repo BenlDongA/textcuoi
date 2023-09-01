@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/textcuoi/static/css/main.073c9b0a.css",
+    "main.js": "/textcuoi/static/js/main.f2b847f9.js",
+    "static/js/787.13160e02.chunk.js": "/textcuoi/static/js/787.13160e02.chunk.js",
+    "static/media/logo.svg": "/textcuoi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/textcuoi/index.html",
+    "main.073c9b0a.css.map": "/textcuoi/static/css/main.073c9b0a.css.map",
+    "main.f2b847f9.js.map": "/textcuoi/static/js/main.f2b847f9.js.map",
+    "787.13160e02.chunk.js.map": "/textcuoi/static/js/787.13160e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f2b847f9.js"
+  ]
+}
